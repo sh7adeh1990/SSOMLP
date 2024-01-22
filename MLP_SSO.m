@@ -1,9 +1,9 @@
 
-#Biazar, S.M., Shehadeh, H.A., Ghorbani, M.A. et al. 
-#Soil temperature forecasting using a hybrid artificial neural network in Florida subtropical grazinglands agro-ecosystems. Sci Rep 14, 1535 (2024). 
-#https://doi.org/10.1038/s41598-023-48025-4
+%Biazar, S.M., Shehadeh, H.A., Ghorbani, M.A. et al. 
+%Soil temperature forecasting using a hybrid artificial neural network in Florida subtropical grazinglands agro-ecosystems. Sci Rep 14, 1535 (2024). 
+%https://doi.org/10.1038/s41598-023-48025-4
 
-#The dataset contains two sheets. The attached one is for test.
+%The dataset contains two sheets. The attached one is for test.
 
 
 clc
